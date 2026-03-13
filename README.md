@@ -9,15 +9,15 @@
   </a>
 </p>
 
-> *Building robust APIs with Java 21, Spring Boot 6, and a Security-First mindset.*
+> *Building robust APIs with Java 21, Spring Boot 4, and a Security-First mindset.*
 
 ---
 
 ## 🧭 About Me
 
-I am a **Backend Developer** with a unique professional trajectory: after **20 years in high-end business management**, I made a deliberate transition into Software Engineering — driven by a passion for building reliable, scalable, and secure systems.
+I am a **Backend Developer** with a unique professional trajectory: after **20 years in high-end business management**, I made a deliberate transition into Software Engineering — driven by a passion[...]
 
-Today, I combine that executive-level perspective with hands-on technical expertise in **Java 21**, **Spring Boot**, and **Clean Architecture** principles. I am a **C1 English** speaker and I apply rigorous software design patterns including **SOLID**, **Hexagonal Architecture**, and **Domain-Driven Design (DDD)** to every project I build.
+Today, I combine that executive-level perspective with hands-on technical expertise in **Java 21**, **Spring Boot**, and **Clean Architecture** principles. I am a **C1 English** speaker and I apply ri[...]
 
 ---
 
@@ -78,8 +78,16 @@ Today, I combine that executive-level perspective with hands-on technical expert
 ---
 
 ## 🤝 Connect With Me
-- 📧 **Email:** [ortizsanchezjoseantonio@gmail.com](mailto:ortizsanchezjoseantonio@gmail.com)
-- 💼 **LinkedIn:** [in/jose-antonio-ortiz-sanchez](https://www.linkedin.com/in/jose-antonio-ortiz-sanchez)
+
+<p align="center">
+  <a href="mailto:ortizsanchezjoseantonio@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ortizsanchezjoseantonio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jose-antonio-ortiz-sanchez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-jose--antonio--ortiz--sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <p align="center">
   <i>"The best code is not the cleverest — it is the one your team can read, maintain, and trust."</i>
