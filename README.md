@@ -87,7 +87,7 @@ Today, I combine that executive-level perspective with hands-on technical expert
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/zitor83" target="_blank">
+  <a href="www.linkedin.com/in/jose-antonio-ortiz-sanchez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
