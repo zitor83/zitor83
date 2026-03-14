@@ -9,15 +9,15 @@
   </a>
 </p>
 
-> *Building robust APIs with Java 21, Spring Boot 4, and a Security-First mindset.*
+> *Building robust APIs with Java 21, Spring Boot 3, and a Security-First mindset.*
 
 ---
 
 ## 🧭 About Me
 
-I am a **Backend Developer** with a unique professional trajectory: after **20 years in high-end business management**, I made a deliberate transition into Software Engineering — driven by a passion[...]
+I am a **Backend Developer** with a unique professional trajectory: after **20 years in high-end business management**, I made a deliberate transition into Software Engineering — driven by a passion for building reliable, scalable, and secure systems that bridge the gap between complex business logic and technical excellence.
 
-Today, I combine that executive-level perspective with hands-on technical expertise in **Java 21**, **Spring Boot**, and **Clean Architecture** principles. I am a **C1 English** speaker and I apply ri[...]
+Today, I combine that executive-level perspective with hands-on technical expertise in **Java 21**, **Spring Boot**, and **Clean Architecture** principles. I am a **C1 English** speaker and I apply rigorous software design patterns including **SOLID**, **Hexagonal Architecture**, and **Domain-Driven Design (DDD)** to every project I build, ensuring code that is not only functional but also maintainable and enterprise-ready.
 
 ---
 
@@ -27,14 +27,14 @@ Today, I combine that executive-level perspective with hands-on technical expert
 > A full backend infrastructure that doubles as my personal sandbox for production-grade engineering.
 - 🌐 **Live at:** [jortiz.dev](https://jortiz.dev)
 - 🖥️ **Infrastructure:** Deployed on a **DigitalOcean VPS** (Ubuntu) using **Docker** and **Nginx** reverse proxy.
-- 🤖 **AI Integration:** Real-time content moderation using **Groq / Llama 3.1** models.
-- 📄 **Documentation:** Automated API docs with **Swagger / OpenAPI 3.1**.
+- 🤖 **AI Integration:** Real-time content moderation using **Groq / Llama 3.1** models for secure user interaction.
+- 📄 **Documentation:** Fully interactive API docs with **Swagger / OpenAPI 3.1**.
 
 ### 🗓️ [Event Management API](https://github.com/zitor83/event-management-api)
-> Production-ready REST API demonstrating enterprise-grade security and architecture.
-- 🔑 **Security:** Stateless auth with **JWT** and **RBAC** (Role-Based Access Control).
-- 🔄 **Data:** Advanced mapping with **MapStruct** and **PostgreSQL** persistence.
-- 🏛️ **Pattern:** Strictly follows **Clean Architecture** to ensure maintainability.
+> Production-ready REST API demonstrating enterprise-grade security and modular architecture.
+- 🔑 **Security:** Stateless authentication with **JWT** and **RBAC** (Role-Based Access Control).
+- 🔄 **Data:** Advanced mapping with **MapStruct** and **PostgreSQL** persistence using JPA/Hibernate.
+- 🏛️ **Pattern:** Strictly follows **Clean Architecture** to decouple domain logic from external frameworks.
 
 ---
 
@@ -42,7 +42,7 @@ Today, I combine that executive-level perspective with hands-on technical expert
 
 ### ☕ Core Backend
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security_6-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
@@ -52,10 +52,10 @@ Today, I combine that executive-level perspective with hands-on technical expert
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🗄️ Database & Design
+### 🗄️ Database & Design Patterns
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-6E3AE8?style=for-the-badge&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-007ACC?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-007ACC?style=for-the-badge&logo=solid&logoColor=white)
 
 ---
 
@@ -63,7 +63,7 @@ Today, I combine that executive-level perspective with hands-on technical expert
 
 | Certificate | Issuer | Focus |
 |---|---|---|
-| 🛡️ **Google Cybersecurity Professional** | Google | Threat analysis, SIEM tools, and Python for security |
+| 🛡️ **Google Cybersecurity Professional** | Google | Network security, threat analysis, SIEM tools, and Python for security. |
 
 ---
 
@@ -81,11 +81,11 @@ Today, I combine that executive-level perspective with hands-on technical expert
 
 <p align="center">
   <a href="mailto:ortizsanchezjoseantonio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ortizsanchezjoseantonio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jose-antonio-ortiz-sanchez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-jose--antonio--ortiz--sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
