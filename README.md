@@ -1,15 +1,8 @@
-# **José Antonio Ortiz**
+# **José Antonio Ortiz Sánchez**
 ### **Backend Developer | Java • Spring Boot • API Design**
 
 <p align="left">
-  <a href="https://jortiz.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-Portfolio_API-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jose-antonio-ortiz-sanchez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=zitor83&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://jortiz.dev/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Portfolio_API-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/></a><a href="https://www.linkedin.com/in/jose-antonio-ortiz-sanchez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><img src="https://komarev.com/ghpvc/?username=zitor83&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 > Building **secure and scalable backend systems** with **Java 21, Spring Boot 3, and Clean Architecture.**
