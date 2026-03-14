@@ -8,16 +8,17 @@
   <a href="https://www.linkedin.com/in/jose-antonio-ortiz-sanchez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <br>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=zitor83&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 > Building **secure and scalable backend systems** with **Java 21, Spring Boot 3, and Clean Architecture.**
 
-Backend developer focused on designing **robust REST APIs, secure authentication systems, and production-ready infrastructure.**
+I am a Backend Developer focused on designing **robust REST APIs, secure authentication systems, and production-ready infrastructure.**
 
-After **20 years in high-end business management**, I transitioned into software engineering, bringing a strong understanding of **real business requirements, system reliability, and scalable architecture.**
+After **20 years in high-end business management**, I transitioned into software engineering, bringing a strong understanding of **real business requirements, system reliability, and scalable architecture.** I work with a **C1 English** proficiency level and a business-oriented mindset.
 
+🌍 **Portfolio & Live API:** [jortiz.dev](https://jortiz.dev)
 📍 **Currently open to Junior Backend / Java Developer opportunities.**
 
 ---
@@ -46,7 +47,6 @@ After **20 years in high-end business management**, I transitioned into software
 
 ### [Personal Portfolio API](https://github.com/zitor83/my-portfolio-backend) — *The Live Lab*
 **Production-ready backend powering my personal portfolio and AI experiments.**
-
 * **AI Integration:** Real-time content moderation using **Groq / Llama 3.1**.
 * **DevOps:** Containerized with **Docker** and served via **Nginx** reverse proxy.
 * **Infrastructure:** Deployed on a **Linux VPS (DigitalOcean)** with automated CI/CD.
@@ -54,7 +54,6 @@ After **20 years in high-end business management**, I transitioned into software
 
 ### [Event Management API](https://github.com/zitor83/event-management-api)
 **REST API demonstrating secure authentication and modular domain design.**
-
 * **Security:** **JWT Authentication** with granular Role-Based Access Control (RBAC).
 * **Data:** Complex DTO mapping with **MapStruct** and JPA persistence.
 * **Patterns:** Strictly structured using **Clean Architecture** and SOLID principles.
