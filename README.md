@@ -9,7 +9,7 @@
 
 I am a Backend Developer focused on designing **robust REST APIs, secure authentication systems, and production-ready infrastructure.**
 
-After **20 years in high-end business management**, I transitioned into software engineering, bringing a strong understanding of **real business requirements, system reliability, and scalable architecture.** I work with a **C1 English** proficiency level and a business-oriented mindset.
+After **10 years in high-end business management**, I transitioned into software engineering, bringing a strong understanding of **real business requirements, system reliability, and scalable architecture.** I work with a **C1 English** proficiency level and a business-oriented mindset.
 
 🌍 **Portfolio & Live API:** [jortiz.dev](https://jortiz.dev)
 📍 **Currently open to Junior Backend / Java Developer opportunities.**
